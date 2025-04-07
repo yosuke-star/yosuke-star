@@ -29,12 +29,6 @@ Here are some ideas to get you started:
   <a href="http://qiita.com/yosuke-star">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yosuke-star/posts.svg" />
   </a>
-  <a href="http://qiita.com/yosuke-star">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yosuke-star/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/yosuke-star">
-    <img height="20" src="https://badgen.org/img/zenn/yosuke-star/articles?style=plastic" />
-  </a>
 </p>
 
 ### Test2
