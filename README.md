@@ -1,4 +1,4 @@
-## 🙋こんにちは！ yosuke-starです！ 
+## 🙋 こんにちは！ yosuke-starです！ 
 新しい技術を追いかけ、学ぶことに日々ワクワクしています。
 
 🔭 現在は、PythonでのWebアプリケーション開発と、モダンなフロントエンドフレームワークであるReact・Next.jsに情熱を注いでいます。
@@ -34,10 +34,10 @@ I'm an enthusiastic software engineer, always excited to explore and learn new t
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=yosuke-star&theme=dracula)
 
-## 🐍Feeding 
+## 🐍 Feeding 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{yosuke-star}/{yosuke-star}/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{yosuke-star}/{yosuke-star}/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/{yosuke-star}/{yosuke-star}/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yosuke-star/yosuke-star/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yosuke-star/yosuke-star/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yosuke-star/yosuke-star/output/github-contribution-grid-snake.svg">
 </picture>
 
