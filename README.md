@@ -34,7 +34,10 @@ I'm an enthusiastic software engineer, always excited to explore and learn new t
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=yosuke-star&theme=dracula)
 
+## 🐍Feeding 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{github_user_name}/{yosuke-star}/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{github_user_name}/{yosuke-star}/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/{github_user_name}/{yosuke-star}/output/github-contribution-grid-snake.svg">
+</picture>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yosuke-star/yosuke-star/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
