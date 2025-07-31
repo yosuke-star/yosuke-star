@@ -13,7 +13,7 @@
 ## 🌎 Hello! I'm yosuke-star!
 I'm an enthusiastic software engineer, always excited to explore and learn new technologies.
 
-🔭 Currently, I'm passionate about Python web application development and modern front-end frameworks like React and Next.js. My goal is to combine these technologies to build more powerful and user-friendly applications.
+🔭 Currently, I'm passionate web application development and modern front-end frameworks like React and Next.js. My goal is to combine these technologies to build more powerful and user-friendly applications.
 
 🌱 Moving forward, I'm eager to delve into the field of machine learning.
 
