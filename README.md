@@ -10,7 +10,7 @@
 
 📫 ご連絡は、お気軽にGitHubの [Issue](https://github.com/yosuke-star/yosuke-star/issues) までどうぞ。
 
-## 🌎 Hello! I'm yosuke-star!
+## 🌎 Hello! I'm Yoskey!
 I'm an enthusiastic software engineer, always excited to explore and learn new technologies.
 
 🔭 Currently, I'm passionate web application development and modern front-end frameworks like React and Next.js. My goal is to combine these technologies to build more powerful and user-friendly applications.
